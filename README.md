@@ -1,16 +1,39 @@
-## Hi there 👋
+# Arthur Volpato
 
-<!--
-**volpszz/volpszz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash id="m8v2qk"
+> whoami
+Cybersecurity student focused on networks, Linux, systems and security infrastructure.
+```
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Cybersecurity student at Unicesumar
+* Focused on Cybersecurity, Network Security, Linux and Infrastructure
+* Knowledge in Threat Detection, Incident Response and Security Operations
+* Building practical projects with Python, networking and systems
+* Interested in cybersecurity, infrastructure, operating systems and security technologies
+
+---
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,python,bash,windows,git,mysql" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Cybersecurity-0A66C2?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python"/>
+</p>
+
+---
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://github.com/volpszz">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
