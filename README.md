@@ -1,4 +1,4 @@
-# Arthur Volpato
+# Arthur Volpato Moreira (volpsz)
 
 ```bash id="m8v2qk"
 > whoami
