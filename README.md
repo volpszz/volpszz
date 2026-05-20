@@ -1,6 +1,6 @@
 # Arthur Volpato Moreira (volpsz)
 
-```bash id="m8v2qk"
+```bash
 > whoami
 Cybersecurity student focused on networks, Linux, systems and security infrastructure.
 ```
@@ -22,6 +22,7 @@ Cybersecurity student focused on networks, Linux, systems and security infrastru
 </p>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Suricata-E94E1B?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cybersecurity-0A66C2?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624"/>
