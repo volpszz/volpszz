@@ -2,32 +2,47 @@
 
 ```bash
 > whoami
-Cybersecurity student focused on networks, Linux, systems and security infrastructure.
+Security Engineering student focused on AppSec, DevSecOps and secure software development.
 ```
 
 ## About Me
 
-* Cybersecurity student at Unicesumar
-* Focused on Cybersecurity, Network Security, Linux and Infrastructure
-* Knowledge in Threat Detection, Incident Response and Security Operations
-* Building practical projects with Python, networking and systems
-* Interested in cybersecurity, infrastructure, operating systems and security technologies
+* Cybersecurity student at Unicesumar, building toward Security Engineering / AppSec / DevSecOps
+* Currently progressing through the **Security Engineer path on TryHackMe**
+* Studying secure coding, the **OWASP Top 10**, and threat modeling fundamentals
+* Comfortable across **Go, C, Python and Rust** — fast to pick up new languages and codebases
+* Practical background in networking, Linux internals and SOC-style monitoring (detection & incident response)
+* Building projects that connect security thinking with real code — not just theory
 
 ---
 
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,python,bash,windows,git,mysql" />
+  <img src="https://skillicons.dev/icons?i=go,c,python,rust,linux,git,bash,mysql" />
 </p>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/AppSec-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DevSecOps-2E5395?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Threat_Modeling-6A1B9A?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Suricata-E94E1B?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-0A66C2?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python"/>
 </p>
+
+---
+
+## Focus Areas
+
+```text
+[x] Secure Coding & OWASP Top 10
+[x] Vulnerability triage (SAST / SCA / DAST concepts)
+[x] Threat modeling & risk analysis fundamentals
+[x] Network protocols, TCP/IP, socket programming
+[ ] Cloud security (GCP) — next up
+```
 
 ---
 
