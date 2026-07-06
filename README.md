@@ -2,30 +2,33 @@
 
 ```bash
 > whoami
-Security Engineering student focused on AppSec, DevSecOps and secure development.
+Software Engineering student passionate about Cybersecurity and secure software development.
 ```
 
 ## About Me
 
-* Cybersecurity student at Unicesumar
-* Progressing through the **Security Engineer path on TryHackMe**
-* Studying secure coding, the **OWASP Top 10** and threat modeling fundamentals
-* Background in networking, Linux and SOC-style monitoring (detection & incident response)
+- 🎓 Software Engineering student at UniCesumar
+- 🛡️ Built a foundation in Cybersecurity through networking, Linux and security studies
+- 💻 Currently studying Rust and Python, focusing on secure software development
+- 📚 Exploring Application Security (AppSec) and DevSecOps while building practical projects
 
 ---
 
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,rust,linux,git,bash" />
+  <img src="https://skillicons.dev/icons?i=rust,python,c,linux,git,bash" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/AppSec-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DevSecOps-2E5395?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-</p>
+---
+
+## Currently Learning
+
+- 🦀 Rust
+- 🐍 Python
+- 🔐 Application Security (OWASP Top 10)
+- ⚙️ DevSecOps fundamentals
+- 🧩 Secure software development
 
 ---
 
