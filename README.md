@@ -2,14 +2,14 @@
 
 ```bash
 > whoami
-Software Engineering student passionate about Cybersecurity and secure software development.
+Software Engineering | Information Security Student
 ```
 
 ## About
 
-Software Engineering student at UniCesumar with a foundation in Cybersecurity, built through studies in networking, Linux and information security.
+Software Engineering student at UniCesumar.
 
-Currently expanding my software development skills with Rust and Python while focusing on Application Security (AppSec) and DevSecOps.
+Currently expanding my software development skills with Rust and Python.
 
 Interested in opportunities involving Software Development, Cybersecurity, DevSecOps and Application Security.
 
