@@ -1,5 +1,3 @@
-# Arthur Volpato Moreira
-
 ```bash
 > whoami
 Software Engineering | Information Security Student
