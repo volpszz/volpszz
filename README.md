@@ -18,8 +18,15 @@
 
 ## 🛠️ Tech Stack
 
+**Languages**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=rust,python" />
+</p>
+
+**Tools & Systems**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,linux,windows" />
+  <img src="https://img.shields.io/badge/Networking-4A4A4A?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
 ---
