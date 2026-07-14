@@ -26,7 +26,7 @@
 **Tools & Systems**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,linux,windows" height="48" />
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0JveD0iMCAwIDQ4IDQ4Ij4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxMCIgZmlsbD0iIzRBNEE0QSIvPgogIDxnIHN0cm9rZT0iI0ZGRkZGRiIgc3Ryb2tlLXdpZHRoPSIyIiBmaWxsPSJub25lIj4KICAgIDxsaW5lIHgxPSIyNCIgeTE9IjEyIiB4Mj0iMTIiIHkyPSIzMCIvPgogICAgPGxpbmUgeDE9IjI0IiB5MT0iMTIiIHgyPSIyNCIgeTI9IjMwIi8+CiAgICA8bGluZSB4MT0iMjQiIHkxPSIxMiIgeDI9IjM2IiB5Mj0iMzAiLz4KICA8L2c+CiAgPGNpcmNsZSBjeD0iMjQiIGN5PSIxMiIgcj0iNCIgZmlsbD0iI0ZGRkZGRiIvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iMzIiIHI9IjQiIGZpbGw9IiNGRkZGRkYiLz4KICA8Y2lyY2xlIGN4PSIyNCIgY3k9IjMyIiByPSI0IiBmaWxsPSIjRkZGRkZGIi8+CiAgPGNpcmNsZSBjeD0iMzYiIGN5PSIzMiIgcj0iNCIgZmlsbD0iI0ZGRkZGRiIvPgo8L3N2Zz4K" height="48" title="Redes de Computação" />
+  <img src="https://raw.githubusercontent.com/volpszz/volpszz/main/assets/network.svg" height="48" title="Redes de Computação" />
 </p>
 
 ---
