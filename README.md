@@ -26,7 +26,7 @@
 **Tools & Systems**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,linux,windows" height="48" />
-  <img src="https://raw.githubusercontent.com/volpszz/volpszz/main/assets/network.svg" height="48" title="Redes de Computação" />
+  <img src="https://raw.githubusercontent.com/volpszz/volpszz/main/assets/network.svg" height="48" title="Computer networks" />
 </p>
 
 ---
