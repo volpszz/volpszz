@@ -1,4 +1,4 @@
-<h1 align="center">Arthur</h1>
+<h1 align="center">volpsz</h1>
 <p align="center">Software Engineering | Information Security Student</p>
 
 ---
@@ -6,7 +6,7 @@
 ## About
 
 - Software Engineering student at **UniCesumar**
-- Help Desk N1 @ ISP/IoT company
+- Help Desk N1 at ISP/IoT company
 - Building with **Rust** and **Python**
 - Focus: **Cybersecurity**, **DevSecOps** and **Application Security**
 
@@ -32,4 +32,9 @@
 
 <p align="left">
   <a href="https://github.com/volpszz">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=gi
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/arthur-volpatoo">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
