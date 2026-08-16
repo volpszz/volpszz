@@ -4,10 +4,9 @@
 ---
 
 ## About
-
 - Software Engineering student at **UniCesumar**
 - Help Desk N1 at ISP/IoT company
-- Building with **Rust** and **Python**
+- Building with **Rust**, **Python** and **C**
 - Focus: **Cybersecurity**, **DevSecOps** and **Application Security**
 
 ---
@@ -15,13 +14,11 @@
 ## Stack
 
 **Languages**
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=rust,python" />
+  <img src="https://skillicons.dev/icons?i=rust,python,c" />
 </p>
 
 **Tools**
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,linux,windows" />
 </p>
@@ -29,7 +26,6 @@
 ---
 
 ## Contact
-
 <p align="left">
   <a href="https://github.com/volpszz">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
