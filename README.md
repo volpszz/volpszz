@@ -7,6 +7,7 @@
 - Software Engineering student at **UniCesumar**
 - Help Desk N1 at ISP/IoT company
 - Building with **Rust**, **Python** and **C**
+- Learning **HTML**, **CSS**, **JavaScript**, **React** and **Next.js**
 - Focus: **Cybersecurity**, **DevSecOps** and **Application Security**
 
 ---
@@ -15,7 +16,12 @@
 
 **Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=rust,python,c" />
+  <img src="https://skillicons.dev/icons?i=rust,python,c,javascript" />
+</p>
+
+**Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
 </p>
 
 **Tools**
