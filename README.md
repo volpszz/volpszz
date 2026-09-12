@@ -8,7 +8,7 @@
 - Software Engineering student at **UniCesumar**
 - Help Desk N1 at ISP/IoT company
 - Building with **Rust**, **Python** and **C**
-- Learning **HTML**, **CSS**, **JavaScript**, **React** and **Next.js**
+- Learning **JavaScript**, **React** and **Next.js**
 - Focus: **Cybersecurity**, **DevSecOps** and **Application Security**
 
 ---
