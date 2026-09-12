@@ -9,7 +9,6 @@
 - Help Desk N1 at ISP/IoT company
 - Building with **Rust**, **Python** and **C**
 - Learning **HTML**, **CSS**, **JavaScript**, **React** and **Next.js**
-- Studying **Computer Networks**, **Bash**, **PowerShell** and **Git**
 - Focus: **Cybersecurity**, **DevSecOps** and **Application Security**
 
 ---
