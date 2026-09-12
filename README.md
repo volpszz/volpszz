@@ -4,10 +4,12 @@
 ---
 
 ## About
+
 - Software Engineering student at **UniCesumar**
 - Help Desk N1 at ISP/IoT company
 - Building with **Rust**, **Python** and **C**
 - Learning **HTML**, **CSS**, **JavaScript**, **React** and **Next.js**
+- Studying **Computer Networks**, **Bash**, **PowerShell** and **Git**
 - Focus: **Cybersecurity**, **DevSecOps** and **Application Security**
 
 ---
@@ -15,33 +17,26 @@
 ## Stack
 
 **Languages**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=rust,python,c,javascript" />
 </p>
 
 **Web**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
 </p>
 
-**Tools**
+**Systems, Networking & Tools**
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,linux,windows" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,powershell,git,github,windows,networking" />
 </p>
 
 ---
 
 ## Contact
-<p align="left">
-  <a href="https://github.com/volpszz">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/arthur-volpatoo">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
-
-<!--  --!>
-
-
+- GitHub: [github.com/volpszz](https://github.com/volpszz)
+- LinkedIn: [linkedin.com/in/arthur-volpatoo](https://linkedin.com/in/arthur-volpatoo)
