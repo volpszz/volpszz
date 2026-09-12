@@ -8,8 +8,7 @@
 - Software Engineering student at **UniCesumar**
 - Help Desk N1 at ISP/IoT company
 - Building with **Rust**, **Python** and **C**
-- Learning **HTML**, **CSS**, **JavaScript**, **React** and **Next.js**
-- Studying **Computer Networks**, **Bash**, **PowerShell** and **Git**
+- Learning **JavaScript**, **React** and **Next.js**
 - Focus: **Cybersecurity**, **DevSecOps** and **Application Security**
 
 ---
@@ -31,8 +30,3 @@
 
 - GitHub: [github.com/volpszz](https://github.com/volpszz)
 - LinkedIn: [linkedin.com/in/arthur-volpatoo](https://linkedin.com/in/arthur-volpatoo)
-
-## Currently exploring
-
-- Building practical projects in networking, automation, and security.
-- Improving documentation and developer workflows with Git.
