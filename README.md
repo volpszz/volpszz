@@ -19,7 +19,7 @@
   <img src="https://skillicons.dev/icons?i=rust,python,c,javascript" />
 </p>
 
-**Frontend**
+**Web**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
 </p>
