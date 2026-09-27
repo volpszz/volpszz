@@ -29,10 +29,7 @@
 
 ---
 
-## GitHub Activity
-
 <p align="center">
-  <img height="165" src="https://raw.githubusercontent.com/volpszz/volpszz/stats-output/stats.svg" alt="GitHub stats for volpszz">
   <img height="165" src="https://raw.githubusercontent.com/volpszz/volpszz/languages-output/languages.svg" alt="Top languages for volpszz">
 </p>
 

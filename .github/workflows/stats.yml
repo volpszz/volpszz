@@ -16,8 +16,11 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
+    env:
+      PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
     steps:
       - name: Generate stats.svg
+        if: ${{ env.PAT_TOKEN != '' }}
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
@@ -25,6 +28,7 @@ jobs:
           path: dist/stats.svg
           token: ${{ secrets.PAT_TOKEN }}
       - name: Publish stats.svg
+        if: ${{ env.PAT_TOKEN != '' }}
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: stats-output
