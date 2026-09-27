@@ -6,23 +6,39 @@
 ## About
 
 - Software Engineering student at **UniCesumar**
-- Help Desk N1 at ISP/IoT company
-- Building with **Rust**, **Python** and **C**
-- Learning **JavaScript**, **React** and **Next.js**
-- Focus: **Cybersecurity**, **DevSecOps** and **Application Security**
+- Help Desk N1 at an ISP/IoT company
+- Building with **Rust**, **Python**, and **C**
+- Learning **JavaScript**, **React**, and **Next.js**
+- Focus: **Cybersecurity**, **DevSecOps**, and **Application Security**
 
 ---
 
 ## Stack
 
 **Languages**
-<p align="left"><img src="https://skillicons.dev/icons?i=rust,python,c,javascript" /></p>
+
+<img src="https://skillicons.dev/icons?i=rust,python,c,javascript" alt="Rust, Python, C, and JavaScript">
 
 **Web**
-<p align="left"><img src="https://skillicons.dev/icons?i=html,css,react,nextjs" /></p>
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs" alt="HTML, CSS, React, and Next.js">
 
 **Systems, Networking & Tools**
-<p align="left"><img src="https://skillicons.dev/icons?i=linux,bash,powershell,git,github,windows,networking" /></p>
+
+<img src="https://skillicons.dev/icons?i=linux,bash,powershell,git,github,windows" alt="Linux, Bash, PowerShell, Git, GitHub, and Windows">
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://raw.githubusercontent.com/volpszz/volpszz/stats-output/stats.svg" alt="GitHub stats for volpszz">
+  <img height="165" src="https://raw.githubusercontent.com/volpszz/volpszz/languages-output/languages.svg" alt="Top languages for volpszz">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/volpszz/volpszz/snake-output/snake.svg" alt="GitHub contribution activity">
+</p>
 
 ---
 
@@ -30,3 +46,5 @@
 
 - GitHub: [github.com/volpszz](https://github.com/volpszz)
 - LinkedIn: [linkedin.com/in/arthur-volpatoo](https://linkedin.com/in/arthur-volpatoo)
+
+<sub>GitHub cards and contribution animation are generated automatically with GitHub Actions.</sub>
