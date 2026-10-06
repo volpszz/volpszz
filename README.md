@@ -9,7 +9,7 @@
 - Help Desk N1 at an ISP/IoT company
 - Building with **Rust**, **Python**, and **C**
 - Learning **JavaScript**, **React**, and **Next.js**
-- Career interests: **Blue Team**, **Red Team**, **Purple Team**, and **Security Engineering**
+- Career interests: **Security Analyst**, **Blue Team**, **Red Team**, **Purple Team**, and **Security Engineering**
 - Pursuing a career in **Information Security**, across cyber defense, authorized offensive security, and collaboration between both
 - Continuously learning and actively pursuing industry certifications, such as **CompTIA Network+** and **Security+**
 - Developing practical skills through authorized **cyber labs**, **CTFs**, and **security-focused projects**
