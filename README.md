@@ -7,8 +7,7 @@
 
 - Software Engineering student at **UniCesumar**
 - Help Desk N1 at an ISP/IoT company
-- Building with **Rust**, **Python**, and **C**
-- Learning **JavaScript**, **React**, and **Next.js**
+- Stack: **Rust**, **Python**, **C**, **JavaScript**, **HTML**, and **CSS**
 - Career interests: **Security Analyst**, **Blue Team**, **Red Team**, **Purple Team**, and **Security Engineering**
 - Pursuing a career in **Information Security**, across cyber defense, authorized offensive security, and collaboration between both
 - Continuously learning and actively pursuing industry certifications, such as **CompTIA Network+** and **Security+**
@@ -24,7 +23,7 @@
 
 **Web**
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs" alt="HTML, CSS, React, and Next.js">
+<img src="https://skillicons.dev/icons?i=html,css" alt="HTML and CSS">
 
 **Systems, Networking & Tools**
 
