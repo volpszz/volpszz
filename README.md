@@ -7,7 +7,6 @@
 
 - Software Engineering student at **UniCesumar**
 - Help Desk N1 at an ISP/IoT company
-- Stack: **Rust**, **Python**, **C**, **JavaScript**, **HTML**, and **CSS**
 - Career interests: **Security Analyst**, **Blue Team**, **Red Team**, **Purple Team**, and **Security Engineering**
 - Pursuing a career in **Information Security**, across cyber defense, authorized offensive security, and collaboration between both
 - Continuously learning and actively pursuing industry certifications, such as **CompTIA Network+** and **Security+**
